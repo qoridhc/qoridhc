@@ -3,6 +3,8 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoridhc" />
 </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
+
+<h4 align="center">🌐 FrontEnd 🌐</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -14,16 +16,14 @@
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp
 </div>
 
-<br>
-
+<h4 align="center">💻 BackEnd 💻</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
 </div>
 
-<br>
-
+<h4 align="center">🚀 DevOps 🚀</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
@@ -31,8 +31,7 @@
   <img src="https://img.shields.io/badge/AWS ec2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" />&nbsp
 </div>
 
-<br>
-
+<h4 align="center">🗄️ DB 🗄️</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
